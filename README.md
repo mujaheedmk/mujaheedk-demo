@@ -1,4 +1,4 @@
 # mujaheedk-demo
 This is my practice repository.
-name: Mujaheed Khatik
+name: Mujaheed K
 
